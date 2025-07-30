@@ -1,0 +1,251 @@
+The Job Search Phase (The Marketing Phase) 
+****************************************** 
+
+  What we will cover today 
+  ************************  
+    - Understanding the job search phase 
+    - Understanding the main challenges
+    - The strategies you need to follow   
+    - What we have learned from the previous batch 
+    - How we can work together through this phase   
+
+  What you need to understand about the job search phase 
+  ******************************************************  
+
+    A Junior, a mid level and a senior developer  
+    ******************************************** 
+
+      Junior developer
+        - 0 - 1.5 years of experience
+        - Fix small bug, less important bugs
+        - Constantly under supervision 
+
+      Mid level developer
+        - Has 2 - 4 years of experience
+        - Can work on his/her own with minimal support 
+      
+      Senior developer
+        - 5-8 years of experience 
+        - Can architect complex solutions 
+        - No one will be there to help him/her
+
+      NOTE: 
+        - What we have covered in the last five months can qualify you for a mid level position
+
+        - Here is a very nice article explaining the differences 
+          https://artelogic.net/blog/post/what-is-the-difference-between-junior-middle-and-senior-developers-software-engineers 
+
+        - A well written post explaining what the first 6 months of your first job will look like 
+
+          https://www.reddit.com/r/webdev/comments/fr7nox/what_ive_learned_in_my_first_6_months_working_as/
+
+          https://www.quora.com/What-are-the-roles-of-a-junior-web-developer        
+
+    Salary Expectation 
+    ******************
+      The 2020 and 21 Average from glass door 
+        Junior developer
+          - $58,832 / yr  ($30/hr) - At some point earlier this year  
+          - $65,872 / yr significant increase 
+
+        Mid level developer
+          - $69,650 / yr ($34/hr)
+          - $74,699
+        
+        Senior developer
+          - $87,712 / yr ($43/hr)
+          - $94,975
+        
+      Have noticed a significant drop in the last year and seems like it is bouncing back   
+
+    Key Numbers you need to know
+    **************************** 
+
+      ******* 1. About 80% of hires made in US are made using offline methods.
+        - These positions get filled before they are even posted on job post sites. 
+          - Main methods used in here 
+            - Recruiters 
+            - Referrals
+            - Job fairs 
+
+      2. On the average, the pool of all web development job posts can be divided like this based on the expertise level        
+        - Junior developers (15%) 
+        - Mid level developers (50%)
+        - Senior developers (25%)
+        - Leads and others (10%)
+
+      3. For every junior or mid level developer position opening, an average of 250 resumes are submitted
+        - Out of these 250 resumes, 80% (200) of them don't even pass the first round of filtering 
+          - Applicant Tracking Systems (ATSs)  
+          - HR Department initial review 
+        - About 15% (37) are rejected on the initial review by the technical department
+        - Only 5%(12) make it to the final list 
+        - 6 - 8 of them are left out on the initial phone call    
+        - 4 - 6 of them will be called for a technical interview
+        - 1 Gets the job 
+
+      4. Average time it takes to get a job  
+        - The average amount of time it takes to find a job from the day you start applying is about 66 days (nine weeks) 
+        - 23.6 days from initial interview to getting the offer letter 
+      
+      5. To get a job as a mid level developer, you need to at least apply to 300 different places 
+        - This applications should include customized cover letter 
+
+  Main challenges
+  *************** 
+
+    1st. Getting your resume to Employers 
+      - Getting connected with recruiters and employers 
+
+    2nd. When it comes to applying directly, your number one challenge by far is to be able to pass the first filters (ATSs and HR) and get an interview 
+
+    3rd. Your third challenge is passing the interview 
+
+    4th. Staying motivated during this lengthy and stressful period 
+  
+  The strategies you need to follow
+  ********************************** 
+
+    Creating connections with recruiters
+    ************************************ 
+      - As we have mentioned above, the best thing you can do to increase your chance of getting an interview is to increase your social circle of potential connections with employers. 
+        - LinkedeIn 
+        - Your friends and families 
+        - Job fairs  
+
+    Passing ATSs
+    ************ 
+      - A well written resume plays the key part in here 
+        - The way to beat the ATSs is to include as much KEY words as possible on your resume 
+      - Will send you a sample resume to get you started with for this
+
+    Getting picked by HR 
+    ********************  
+      - A clean, well organized and designed portfolio website plays the biggest role in here 
+        - The design and proper grammar is what matters the most in here 
+
+      - A well written and properly formatted resume plays a huge role in here too 
+        - Use https://www.kickresume.com/en/ 
+         
+    Getting your resume to the Employers 
+    ************************************
+      - The number of applications you submit every day is the prerequisite for the success of any of the strategies mentioned above  
+        - Prepare to apply 10+ a day right after you finish your projects  
+
+      - Recruiters play a huge part in here too 
+        *** - This is where LinkedIn and Networking comes to play 
+
+    Getting picked by the technical people 
+    **************************************  
+      - This is where the projects you did play a huge role 
+        - Apple, Netflix, Amazon, side projects, etc ... 
+
+    Crashing the final technical interview 
+    *************************************** 
+      - There is no way around this. You just have to study and know the answers for every possible interview question you might be asked. 
+
+      - Getting here and failing is really really frustrating 
+        *** Prepare well for your interview **** 
+
+        One sample page to get your interview questions from 
+          https://github.com/aershov24/full-stack-interview-questions
+          
+    Reference 
+    ********** 
+      - You will definitely be asked for a reference if you are applying for any position that is not a junior
+      
+      - Forming your own company as a group is the best recommendation I have for you. 
+
+    Staying motivated
+    ***************** 
+      - That is why we invested the last four month creating the group 
+
+      - This is the time you all are going to support each other and work together in the ups and downs you all are going to face 
+
+  What we have learned from the previous batch 
+  ********************************************* 
+
+    - The positive
+      - They stayed together as a group and kept meeting and studying 
+        - Sept batch are studying PHP 
+        - Aug batch are even studying machine learning 
+        - Dec batch are also studying the interview questions together 
+
+    - The negative 
+      - They are not constantly applying 
+        - Some are even going back and retaking the course when they are actually better off learning something else and focusing on the job search specifically 
+
+    - We need to change the negative and keep the positive  
+
+  The next three weeks  
+  ********************
+
+    Projects 
+    ******** 
+      - You will build and deploy at least three projects 
+        - Netflix 
+        - Amazon (Front and Back)
+        - Apple 
+        - Zoom 
+
+      - You will meet with Teddy every Wednesday until you finish the projects 
+        - How you will approach the project 
+          - Step 1: Follow the video and build the projects along with your friends first
+            - You can find the projects in here 
+              https://github.com/clone-projects 
+            
+            - Note: Don't wast your time typing everything 
+
+          - Step 2: You will meet with Teddy and finalize the project of the week. 
+            - Eg: This week is for Netflix 
+              - Meet as a group and work of the project 
+              - Prepare any question you might have for him 
+              - You will meet with him on the 28th and finish Netflix
+              - The same for the others 
+
+    Resume 
+    ******
+      - Samples are already added on the website 
+      - Including cover letter 
+      - Formatting makes a huge difference
+      - Make sure to include as much keywords as possible 
+
+    Portfolio website
+    ***************** 
+      - Focus on the beauty of the site (Goal is to pass the HR)
+      - Make sure to enable https  
+      - Make sure to link your resume in there 
+      - Your projects should be the main focus 
+      - Thumbnail images are what grab eyes 
+
+    LinkedeIn profile
+    *****************
+      - More detailed than your resume 
+      - Rate each other to improve the weight of your profile 
+      
+    Github account 
+    **************
+      - Remove everything that you don't want to be seen 
+      - Upload everything you want to show (Apple Bootstrap and Apple React clone)
+
+    Prepare for interview questions
+    ******************************** 
+      - Start from the junior level interview questions 
+      - Move to the mid-level interview questions 
+      - Finally prepare even for the advanced ones 
+
+    Prepare a system to track your application 
+    ******************************************
+      - Position 
+      - Link 
+      - Applied Date 
+      - Contact person 
+      - Status 
+      - Next follow up date 
+
+  Will see you on the 9th 
+  *********************** 
+    - When we meet next time, we will discuss the possible kind of questions you could be asked in addition to the technical questions
+      
+    - Once you deploy Amazon, add it on your portfolio website and submit the link here 
+      - https://www.evangadi.com/job-search-ready

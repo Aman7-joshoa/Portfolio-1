@@ -1,0 +1,77 @@
+/** @format */
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Sacramento&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.internal-wrapper {
+  margin: 0 2.5rem;
+  font-size: 0.9rem;
+}
+/* Custom CSS for changing background color with a smooth transition on hover*/
+
+.navbar-brand {
+  font-family: "Inter", sans-serif;
+  font-family: "Sacramento", cursive;
+  font-size: 2rem;
+  font-weight: bolder;
+  color: #007700;
+}
+.btn {
+  transition: background-color 0.3s ease; /* Adjust the duration and timing function as needed */
+}
+
+.btn:hover {
+  background-color: white;
+  color: #007bff; /* Change the text color if needed */
+}
+.icon-link {
+  text-decoration: none;
+}
+.navbar-nav .nav-item {
+  transition: background-color 0.3s;
+}
+
+.navbar-nav .nav-item:hover {
+  background-color: #f0f0f0; /* Change to the desired hover background color */
+}
+
+@media (min-width: 768px) {
+  .navbar-nav .nav-link {
+    font-size: 18px; /* Change to the desired font size for large screens */
+  }
+}
+
+@media (max-width: 767px) {
+  .navbar-nav .nav-link {
+    font-size: 14px; /* Change to the desired font size for small screens */
+  }
+}
+
+.skill-icon {
+  transition: background-color 0.3s;
+}
+
+.skill-icon:hover {
+  color: #007bff;
+}
+.skill {
+  text-align: center;
+  margin-bottom: 20px;
+  transition: background-color 0.3s;
+}
+.skill:hover {
+  color: #007bff;
+}
+.text-ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.charge {
+  color: rgb(255, 210, 48);
+}
